@@ -4,3 +4,4 @@ echo $USER
 echo $PATH
 echo $BUILD_NUMBER
 echo "this is boring"
+echo "this is ok"
