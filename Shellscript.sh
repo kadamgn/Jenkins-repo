@@ -5,3 +5,4 @@ echo $PATH
 echo $BUILD_NUMBER
 echo "this is boring"
 echo "this is ok"
+echo "this is new"
